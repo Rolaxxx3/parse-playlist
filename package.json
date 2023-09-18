@@ -1,0 +1,23 @@
+{
+  "name": "parse-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node --trace-warnings index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolaxxx3/parse-playlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rolaxxx3/parse-playlist/issues"
+  },
+  "homepage": "https://github.com/Rolaxxx3/parse-playlist#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
